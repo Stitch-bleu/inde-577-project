@@ -7,7 +7,7 @@ This project is a comprehensive collection of lecture notes, algorithms, and ana
 ## Project Structure
 ### Supervised Learning:
 
-- [Model Building and Error Analysis]()
+- [Perceptron](Supervised/1_Perceptron)
 - [Linear Regression]()
 - [Gradient Descent]()
 - [Logistic Regression]()
