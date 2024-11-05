@@ -24,16 +24,17 @@ At the core of Reinforcement Learning is the **Markov Decision Process (MDP)** f
 
 The Q-learning algorithm updates Q-values according to:
 
-\[
-Q(s, a) \leftarrow Q(s, a) + \alpha \times (R + \gamma \times \max Q(s', a') - Q(s, a))
-\]
+**Q(s, a) ← Q(s, a) + α × (R + γ × max Q(s', a') - Q(s, a))**
 
 Where:
-- \( Q(s, a) \): The current Q-value of state-action pair (s, a).
-- \( \alpha \): The learning rate, controlling how much the Q-values are updated.
-- \( \gamma \): The discount factor, determining the importance of future rewards.
-- \( R \): The reward received after taking action \( a \) from state \( s \).
-- \( s' \): The next state after taking action \( a \) from state \( s \).
+
+- **Q(s, a)**: The current Q-value of state-action pair (s, a).
+- **α**: The learning rate, controlling how much the Q-values are updated.
+- **γ**: The discount factor, determining the importance of future rewards.
+- **R**: The reward received after taking action **a** from state **s**.
+- **s'**: The next state after taking action **a** from state **s**.
+
+
 
 ### Exploration vs. Exploitation
 
