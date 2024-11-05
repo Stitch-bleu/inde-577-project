@@ -5,30 +5,29 @@
 This project is a comprehensive collection of lecture notes, algorithms, and analysis developed throughout the course. Below is an outline of the project structure, including links to Dr.Randy's lecture notes.
 
 ## Project Structure
-### Supervised Learning:
+### [Supervised Learning](Supervised):
 
 - [Perceptron](Supervised/1_Perceptron)
-- [Linear Regression]()
-- [Gradient Descent]()
-- [Logistic Regression]()
-- [Neural Nets]()
-- [Support Vector Machines]()
-- [k-Nearest Neighbors]()
-- [Decision/ Regression Trees]()
-- [Ensemble Learning]()
-### Unsupervised Learning:
+- [Gradient Descent](Supervised/2_Gradient Descent)
+- [Logistic Regression](Supervised/3_Logistic Regression)
+- [Deep Natural Network](Supervised/4_Deep Neural Network)
+- [k-Nearest Neighbors](Supervised/5_k-Nearest Neighbors)
+- [Decision/ Regression Trees](Supervised/6_Regression(Decision) Trees)
+- [Linear Regression](Supervised/7_Linear Regression)
+- [Ensemble Learning](Supervised/8_Ensemble Learning)
+### [Unsupervised Learning](Unsupervised):
 
-- [k-Means Clustering]()
-- [Principle Component Analysis]()
-### Reinforcement Learning:
+- [k-Means Clustering](Unsupervised/1_k-Means Clustering)
+- [Principle Component Analysis](Unsupervised/2_Principle Component Analysis)
+### [Reinforcement Learning](Reinforcement Learning):
 
-[Tabular versus Deep Learning Methods]()
+[Tabular versus Deep Learning Methods](Reinforcement Learning/Tabular versus Deep Learning Methods)
 
 ### Tools
 
 - python, versions 3.6 and higher
 
-### Datasets
+### [Datasets](Data)
 All datasets used in this project are available in public and can be found in folder.
 
 ### Lecture Notes:
