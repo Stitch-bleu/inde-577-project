@@ -19,11 +19,11 @@ This project is a comprehensive collection of lecture notes, algorithms, and ana
 
 ### [Unsupervised Learning](Unsupervised):
 
-- [k-Means Clustering](Unsupervised/1_k-Means Clustering)
-- [Principle Component Analysis](Unsupervised/2_Principle Component Analysis)
-### [Reinforcement Learning](Reinforcement Learning):
+- [k-Means Clustering](Unsupervised/1_k-Means%20Clustering)
+- [Principle Component Analysis](Unsupervised/2_Principle%20Component%20Analysis)
+### [Reinforcement Learning](Reinforcement%20Learning):
 
-[Tabular versus Deep Learning Methods](Reinforcement Learning/Tabular versus Deep Learning Methods)
+[Tabular versus Deep Learning Methods](Reinforcement%20Learning/Tabular%20versus%20Deep%20Learning%20Methods)
 
 ### Tools
 
