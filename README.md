@@ -8,13 +8,14 @@ This project is a comprehensive collection of lecture notes, algorithms, and ana
 ### [Supervised Learning](Supervised):
 
 - [Perceptron](Supervised/1_Perceptron)
-- [Gradient Descent](Supervised/2_Gradient Descent)
-- [Logistic Regression](Supervised/3_Logistic Regression)
-- [Deep Natural Network](Supervised/4_Deep Neural Network)
-- [k-Nearest Neighbors](Supervised/5_k-Nearest Neighbors)
-- [Decision/ Regression Trees](Supervised/6_Regression(Decision) Trees)
-- [Linear Regression](Supervised/7_Linear Regression)
-- [Ensemble Learning](Supervised/8_Ensemble Learning)
+- [Gradient Descent](Supervised/2_Gradient_Descent)
+- [Logistic Regression](Supervised/3_Logistic_Regression)
+- [Deep Neural Network](Supervised/4_Deep_Neural_Network)
+- [k-Nearest Neighbors](Supervised/5_k-Nearest_Neighbors)
+- [Decision/Regression Trees](Supervised/6_Regression_Decision_Trees)
+- [Linear Regression](Supervised/7_Linear_Regression)
+- [Ensemble Learning](Supervised/8_Ensemble_Learning)
+
 ### [Unsupervised Learning](Unsupervised):
 
 - [k-Means Clustering](Unsupervised/1_k-Means Clustering)
